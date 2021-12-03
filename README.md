@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Check+out+my+projects!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
