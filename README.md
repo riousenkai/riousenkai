@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact)](https://github.com/riousenkai/github-readme-stats)
  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?riousenkai=riousenkai&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact" />
