@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**riousenkai/riousenkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Check+out+my+projects!)](https://git.io/typing-svg)
+
 
 Here are some ideas to get you started:
 
@@ -9,10 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects and collaboration opportunities!
 - 📫 How to reach me: Please click on the links below found on "Contact Me!"
 - ⚡ Fun fact: I love going to music festivals and I enjoy building Gundam model kits on my spare time.
--->
 
-```
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;Check+out+my+projects!)](https://git.io/typing-svg)
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-elijah-revan-fajardo-33a189a3/)
@@ -41,4 +38,3 @@ Here are some ideas to get you started:
  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?riousenkai=riousenkai&layout=compact" />
-```
