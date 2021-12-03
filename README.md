@@ -1,15 +1,9 @@
-### Hi there 👋
-
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my website clones to include more features.
 - 💬 Ask me about my projects and collaboration opportunities!
 - 📫 How to reach me: Please click on the links below found on "Contact Me!"
 - ⚡ Fun fact: I love going to music festivals and I enjoy building Gundam model kits on my spare time.
-
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-elijah-revan-fajardo-33a189a3/)
