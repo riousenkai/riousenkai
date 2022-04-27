@@ -1,7 +1,7 @@
-<p align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
 <!--
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on improving my website clones to include more features.
 - 💬 Ask me about my projects and collaboration opportunities!
@@ -35,7 +35,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact)](https://github.com/riousenkai/github-readme-stats)
  -->
+ <p align="center">
+ 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight" />
+ <br>
+ <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact" />
  
  </p>
