@@ -1,3 +1,5 @@
+<p align="center">
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
 <!--
 
@@ -35,3 +37,5 @@
  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact" />
+ 
+ </p>
