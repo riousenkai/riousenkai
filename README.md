@@ -1,4 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+page!;Check+out+my+projects!)](https://git.io/typing-svg)
+<!--
 
 - 🔭 I’m currently working on improving my website clones to include more features.
 - 💬 Ask me about my projects and collaboration opportunities!
@@ -25,6 +26,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+-->
 
 <!-- [![Revan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/brandonlaursen/github-readme-stats)
 
