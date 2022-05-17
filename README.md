@@ -34,7 +34,7 @@
 <!-- [![Revan's GitHub stats](https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/brandonlaursen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact)](https://github.com/riousenkai/github-readme-stats)
- -->
+<!-- 
  <p align="center">
  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riousenkai&count_private=true&show_icons=true&theme=tokyonight" />
@@ -42,4 +42,4 @@
  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riousenkai&layout=compact" />
  
- </p>
+ </p> -->
